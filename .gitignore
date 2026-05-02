@@ -11,6 +11,9 @@ coverage/
 .env.*
 !.env.example
 
+# (nix-)direnv
+.direnv/
+
 # logs
 *.log
 
